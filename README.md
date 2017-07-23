@@ -9,3 +9,5 @@ Create a "connection.php" file in the root directory containing -
   ?>
   
 Import the spellcheck.sql file to your MySQL server to use the word and user database.
+
+![Screenshot](images/screenshots/incorrect.png)
